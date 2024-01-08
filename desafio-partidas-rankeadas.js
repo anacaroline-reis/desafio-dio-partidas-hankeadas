@@ -40,4 +40,4 @@ function calcularVitorias(numVitorias, numDerrotas) {
 
   
     
-     console.log ("O Herói " + nome + " tem saldo de " + resultado + " vitórias  e está no nível "+ nivelHeroi) 
+     console.log ("O Herói " + nome + " tem saldo de " + resultado + " vitórias e está no nível "+ nivelHeroi) 
