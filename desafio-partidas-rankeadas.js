@@ -11,8 +11,7 @@ let resultado = calcularVitorias(numVitorias, numDerrotas);
 function calcularVitorias(numVitorias, numDerrotas) {
 
         return numVitorias - numDerrotas; }
-	
-    
+	   
 
  	 if (resultado < 10){
         nivelHeroi = " Ferro ";}
