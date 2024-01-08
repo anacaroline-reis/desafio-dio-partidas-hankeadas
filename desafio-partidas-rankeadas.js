@@ -1,3 +1,5 @@
+////desafio criado para definir qual o ranking do herói
+
 let nome = "Estopinha";
 let numVitorias = 120;
 let numDerrotas = 20;
